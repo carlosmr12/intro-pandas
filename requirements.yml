@@ -1,0 +1,7 @@
+name: intro-pandas
+channels:
+  - defaults
+dependencies:
+  - jupyter=1.0.0
+  - pandas=1.2.5
+  - python=3.9.5
